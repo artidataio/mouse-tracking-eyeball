@@ -1,6 +1,7 @@
 # mouse-tracking-eyeball
 
 I recently watch this video by fireship.io : https://www.youtube.com/watch?v=TGe3pS5LqEw.
+It's about a UI that responds to Mouse coordinate.
 But the code is written in pure JS, so it's actually my chance to convert it into ReactJS.
 It is not an exact replica but I think it gets the gist.
 There was a small hurdle that slowed me down.
